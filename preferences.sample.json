@@ -1,0 +1,50 @@
+{
+  "SiteID": "99B27BD3-A64B-44C4-8047-815056FE9927",
+  "TelNo": "07123456789",
+  "UserName": "email@example.com",
+  "Password": "password123",
+  "OrderItems": [
+    {
+      "ID": "533e4aea-e7c8-46f8-9ab9-915b91576100",
+      "ModifierOptions": [
+        {
+          "ID": 57664,
+          "Name": "lettuce",
+          "Quantity": 1,
+          "Price": "0"
+        },
+        {
+          "ID": 56042,
+          "Name": "balsamic vinaigrette",
+          "Quantity": 1,
+          "Price": "0"
+        },
+        {
+          "ID": 51075,
+          "Name": "black pepper",
+          "Quantity": 1,
+          "Price": "0"
+        }
+      ],
+      "OnSaleNow": false,
+      "Quantity": 1,
+      "ItemName": "lge italian chicken",
+      "Price": "6.29"
+    }
+  ],
+  "Payment": {
+    "CardNo": "1234123412341234",
+    "CardAddress": "1 Adddress Line",
+    "CardCVV": "4321",
+    "CardStartDate": "01/2001",
+    "CardExpiryDate": "12/2010",
+    "NameOnCard": "J J BLOGGS",
+    "PaymentType": 1,
+    "CardType": "Visa",
+    "CardPostcode": "NW1 1AA"
+  },
+  "PromoCode": "discount10",
+  "DeliveryInstructions": "Please provide extra napkins!",
+  "DeliveryAddress": "1 Address Line",
+  "DeliveryPostcode": "NW1 1AA"
+}
